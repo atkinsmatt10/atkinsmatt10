@@ -1,11 +1,19 @@
-## Hi there 👋 I'm Matt
-I build delightful experiences where <strong>hardware meets software</strong>. Making physical spaces smarter, safer &amp; more human-centric.<br> I'm currently a Principal PM @ [SmartRent](https://smartrent.com)
+<!-- Header -->
+<h1 align="center">👋 Hi there, I'm Matt</h1>
+
+<p align="center">
+  I build delightful experiences where <strong>hardware meets software</strong> —<br>
+  making physical spaces smarter, safer &amp; more human-centric.<br>
+  Currently Principal PM @ <a href="https://smartrent.com">SmartRent</a>.
+</p>
+
+---
 
 ### Previously
-- [PM at Comcast](https://www.xfinity.com/multifamily)
-- [Analyst at ICF Consulting](https://www.icf.com)
+- **PM** @ <a href="https://www.xfinity.com/multifamily">Comcast</a>  
+- **Analyst** @ <a href="https://www.icf.com">ICF&nbsp;Consulting</a>
 
 ### Find Me Online
-- [LinkedIn](https://www.linkedin.com/in/atkinsmatthew1/)  
-- [Portfolio](https://www.mattatkins.net)  
+- <a href="https://www.linkedin.com/in/atkinsmatthew1/">LinkedIn</a>  
+- <a href="https://www.mattatkins.net">Portfolio</a>  
 - <a href="mailto:atkinsmatt10@gmail.com">Email</a>
